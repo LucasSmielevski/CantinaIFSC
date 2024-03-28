@@ -1,2 +1,2 @@
 # CantinaIFSC
-Projeto de um sistema desktop de cantina que estou desenvolvendo na faculdade
+Projeto de cantina do IFSC feito na aula de Desenvolvimento de Orientado a Objetos 
